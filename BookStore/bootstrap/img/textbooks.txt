@@ -1,0 +1,152 @@
+TEXTBOOKS 
+ONLINE BOOK STORE
+
+3RD SEM
+1.DATA STRUCTURES AND APPLICATIONS  Ellis Horowitz and Sartaj Sahni, Fundamentals of Data Structures in C, 2nd Ed, Universities Press,
+2014.  RS 350
+book_isbn :  978-0716782926
+pub_id :1
+
+2.ANALOG AND DIGITAL ELECTRONICS  Charles H Roth and Larry L Kinney, Analog and Digital Electronics, Cengage Learning,2019
+RS 499
+book_isbn : 978-9353502355
+pub_id : 2
+
+3.COMPUTER ORGANIZATION  Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Computer Organization, 5th Edition, Tata
+McGraw Hill, 2002. (Listed topics only from Chapters 1, 2, 4, 5, 6, 7, 8, 9 and12)
+RS 500
+book_isbn : 978-0073380650
+pub_id : 3
+
+
+4.SOFTWARE ENGINEERING   Ian Sommerville: Software Engineering, 9th Edition, Pearson Education, 2012. (Listed topics
+only from Chapters 1,2,3,4, 5, 7, 8, 9, 23, and 24)
+RS 629
+book_isbn :  978-0137035151
+pub_id : 4
+
+5.DISCRETE MATHEMATICAL STRUCTURES  Ralph P. Grimaldi: Discrete and Combinatorial Mathematics, 5th Edition, Pearson Education.
+2004.  RS 810
+book_isbn : 978-0201726343
+pub_id : 4
+
+4TH SEM
+6.DESIGN AND ANALYSIS OF ALGORITHMS  . Introduction to the Design and Analysis of Algorithms, Anany Levitin:, 2rd Edition, 2009.
+Pearson.  RS 722
+book_isbn : 978-0132316811
+pub_id : 4
+
+7.OPERATING SYSTEMS  Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, Operating System Principles 7
+th edition,
+Wiley-India, 2006. RS 549
+book_isbn : 978-1118063330
+pub_id :4
+
+8.MICROCONTROLLER AND EMBEDDED SYSTEMS  Andrew N Sloss, Dominic Symes and Chris Wright, ARM system developers guide, Elsevier,
+Morgan Kaufman publishers, 2008. RS 495
+book_isbn : 978-1558608740
+pub_id :4
+
+9.OBJECT ORIENTED CONCEPTS  Herbert Schildt, Java The Complete Reference, 7th Edition, Tata McGraw Hill, 2007.(JAVA)
+RS 729
+book_isbn : 978-0072226805
+pub_id :3
+
+10.DATA COMMUNICATION  Behrouz A. Forouzan, Data Communications and Networking 5E, 5th Edition, Tata McGraw-Hill,
+2013. RS 600
+book_isbn : 978-0073250328
+pub_id :3
+
+5TH SEM
+11.MANAGEMENT AND ENTREPRENEURSHIP FOR IT INDUSTRY  Management and Entrepreneurship - Kanishka Bedi- Oxford University Press-2017
+RS 700
+book_isbn : 978-0351947861
+pub_id :5
+
+12.COMPUTER NETWORKS AND SECURITY  James F Kurose and Keith W Ross, Computer Networking, A Top-Down Approach, Sixth edition,
+Pearson,2017 .RS 699
+book_isbn : 978-0132856201
+pub_id :4
+
+13.DATABASE MANAGEMENT SYSTEM   Database management systems, Ramakrishnan, and Gehrke, 3rd Edition, 2014, McGraw Hill
+RS  888
+book_isbn : 978-0072465631
+pub_id :7
+
+14.AUTOMATA THEORY AND COMPUTABILITY  Elaine Rich, Automata, Computability and Complexity, 1st
+ Edition, Pearson
+education,2012/2013
+RS 700
+book_isbn : 978-0132288064
+pub_id :4
+
+15.APPLICATION DEVELOPMENT USING PYTHON  Al Sweigart,“Automate the Boring Stuff with Python”,1
+stEdition, No Starch Press, 2015.
+(Available under CC-BY-NC-SA license at https://automatetheboringstuff.com/)
+(Chapters 1 to 18)
+RS 1190
+book_isbn : 978-1593279929
+pub_id :3
+
+16.UNIX PROGRAMMING  Sumitabha Das., Unix Concepts and Applications., 4thEdition., Tata McGraw Hill ( Chapter 1,2
+,3,4,5,6,8,13,14)  RS 747
+book_isbn : 978-0073376202
+pub_id :3
+
+6TH SEM
+17.SYSTEM SOFTWARE AND COMPILERS  System programming and Compiler Design, K C Louden, Cengage Learning
+RS  260
+book_isbn : 978-1558603202
+pub_id :2
+
+18.COMUTER GRAPHICS AND VISUALIZATION  Donald Hearn & Pauline Baker: Computer Graphics with OpenGL Version,3rd / 4th Edition,
+Pearson Education,2011  RS 496
+book_isbn : 978-9332518711
+pub_id :4
+
+19.WEB TECHNOLOGY AND ITS APPLICATIONS  Randy Connolly, Ricardo Hoar, "Fundamentals of Web Development”, 1
+stEdition, Pearson
+Education India. RS 670
+book_isbn : 978-0134481265
+pub_id :4
+
+7TH SEM
+20.ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING  Tom M Mitchell,“Machine Lerning”,1
+st Edition, McGraw Hill Education, 2017. RS 599
+book_isbn : 978-1492078197
+pub_id :7
+
+21.BIG DATA AND ANALYTICS  Raj Kamal and Preeti Saxena, “Big Data Analytics Introduction to Hadoop, Spark, and
+Machine-Learning”, McGraw Hill Education  RS 689
+book_isbn : 978-3319207438
+pub_id :7
+
+22.INTERNET OF THINGS  David Hanes, Gonzalo Salgueiro, Patrick Grossetete, Robert Barton, Jerome Henry,"IoT
+Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of
+Things”, 1
+stEdition, Pearson Education (Cisco Press Indian Reprint).
+RS 512
+book_isbn : 978-7115557797
+pub_id :4
+
+23.INTRODUCTION TO ARTIFICIAL INTELLIGENCE  E.Rich,K.Knight & S.B. Nair - Artificial Intelligence, 3/e, McGraw Hill
+RS 769
+book_isbn : 978-3319584867
+pub_id :7
+
+24.NATURAL LANGUAGE PROCESSING  . Tanveer Siddiqui, U.S. Tiwary, “Natural Language Processing and Information Retrieval”,
+Oxford University Press, 2008.  RS 669
+book_isbn : 978-0195692327
+pub_id :5
+
+8TH SEM
+
+25.MULTICORE ARCHITECTURE AND PROGRAMMING  Multicore Programming , Increased Performance through Software Multi-threading by Shameem
+Akhter and Jason Roberts , Intel Press , 2006
+RS 520
+book_isbn : 978-1492059318
+pub_id :6
+
+
+
+
